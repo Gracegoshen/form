@@ -1,0 +1,17 @@
+.wrapper{
+  width:30%;
+  background: rgb(95, 95, 232);
+  color: white;
+  padding: 20px;
+  border-radius: 30px;
+}
+body{
+  background-image: url(istockphoto-1460007178-612x612.jpg); background-size: cover; background-repeat: no-repeat;
+   display: flex; 
+   justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+.wrapper h2{
+  text-align: center;
+}
